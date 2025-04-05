@@ -1,7 +1,7 @@
 # 💫 About Me:
-Currently working on [BTT-Studio](https://github.com/MrKatzenGaming/BTT-Studio) and [smo-lunakit](https://github.com/MrKatzenGaming/smo-lunakit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrKatzenGaming&repo=BTT-Studio&theme=radical)](https://github.com/MrKatzenGaming/BTT-Studio)
-
+## Current Projects: <br>
+[![BTT-Studio](https://github-readme-stats.vercel.app/api/pin/?username=MrKatzenGaming&repo=BTT-Studio&theme=radical)](https://github.com/MrKatzenGaming/BTT-Studio)
+[![smo-lunakit](https://github-readme-stats.vercel.app/api/pin/?username=MrKatzenGaming&repo=smo-lunakit&theme=radical)](https://github.com/MrKatzenGamingsmo-lunakit)
 
 <!-- 
 ## 🌐 Socials:
